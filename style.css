@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.content {
+  position: absolute;
+  width: 720px;
+  height: 625px;
+  left: 0px;
+  top: 0px;
+  z-index: 10;
+  background: #121214;
+}
+
+.logo {
+  position: absolute;
+  width: 389px;
+  height: 94px;
+  left: 30px;
+  top: 50px;
+}
+
+.subtitle {
+  position: absolute;
+  width: 566px;
+  height: 30.44px;
+  left: 36px;
+  top: 236px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  color: #08c05e;
+}
+
+.line1 {
+  position: absolute;
+  width: 517px;
+  height: 16px;
+  left: 36px;
+  top: 275px;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #ffffff;
+}
+
+.line2 {
+  position: absolute;
+  width: 647px;
+  height: 38px;
+  left: 36px;
+  top: 300px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+
+.line3 {
+  position: absolute;
+  width: 647px;
+  height: 38px;
+  left: 36px;
+  top: 330px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+
+  color: #ffffff;
+}
+
+.emailForm input {
+  width: 751px;
+  height: 43px;
+  border: none;
+  outline: #8257e5;
+}
+
+.emailForm {
+  position: absolute;
+  color: #ffffff;
+  width: 798px;
+  height: 84px;
+  left: 36px;
+  top: 388px;
+}
+
+input {
+  padding-left: 10px;
+}
+
+.greenDetail {
+  position: absolute;
+  width: 5px;
+  height: 43px;
+  left: 36px;
+  top: 406px;
+  background: #04d361;
+}
+
+.btnEnviar {
+  position: absolute;
+  width: 48px;
+  height: 43px;
+  left: 786px;
+  top: 406px;
+  background-color: #8257e5;
+  border: none;
+}
+
+.link-to-read {
+  position: absolute;
+  width: 196px;
+  height: 24px;
+  left: 36px;
+  top: 522px;
+  color: #8257e5;
+}
+
+.arrowImg {
+  position: absolute;
+  color: #8257e5;
+  top: 520px;
+  left: 200px;
+}
+
+.read-news img {
+  position: absolute;
+  width: 990px;
+  height: 625px;
+  left: 376px;
+  top: 0px;
+}
